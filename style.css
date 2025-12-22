@@ -72,4 +72,23 @@ footer {
     color: white;
     padding: 10px;
     margin-top: 20px;
+
+    
+}
+
+body {
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+/* Initially hide the image using CSS to prevent a flash of content */
+#myImage {
+    display: none; 
+    margin-top: 20px;
 }
